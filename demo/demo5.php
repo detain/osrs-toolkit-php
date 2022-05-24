@@ -18,8 +18,8 @@
 	<link rel="stylesheet" href="css/template-about.css" type="text/css" />
 	
     <script language="Javascript" type="text/javascript" src="js/json2.js"></script>
-    <script language="Javascript" type="text/javascript" src="js/jquery-1.3.2.js"></script>
-    <script language="Javascript" type="text/javascript" src="js/jquery-ui-1.7.2.js"></script>
+    <script language="Javascript" type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
+    <script language="Javascript" type="text/javascript" src="js/jquery-ui-1.13.1.min.js"></script>
     <script language="Javascript" type="text/javascript" src="js/runonload.js"></script>
 	<script language="Javascript" type="text/javascript" src="js/democode.js"></script>	
 	
