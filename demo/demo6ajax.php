@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="css/template.css" type="text/css" />
 	<link rel="stylesheet" href="css/template-about.css" type="text/css" />
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
 	<script language="Javascript" type="text/javascript" src="js/runonload.js"></script>
 	<script language="Javascript" type="text/javascript" src="js/democode.js"></script>	
 
