@@ -15,6 +15,7 @@
         }
     ],
     "require": {
+        "ext-mbstring": "*",
         "mustangostang/spyc": "^0.5.1"
     },
     "require-dev": {
