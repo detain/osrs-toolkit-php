@@ -299,7 +299,7 @@ class Ops
     {
         $search = array('&', '<', '>', "'", '"');
         $replace = array('&amp;', '&lt;', '&gt;', '&apos;', '&quot;');
-        $string = str_replace($search, $replace, $string);
+        $string = str_replace($search, $replace, $string ?? '');
         $string = mb_convert_encoding($string, 'UTF-8', 'ISO-8859-1');
 
         return $string;
